@@ -21,34 +21,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20250916002425 +0000" stop="20250916011824 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Ice Waterfalls</title>
-    <sub-title lang="en">Kayaking off the world's highest ice waterfall</sub-title>
-    <desc lang="en">Catalan adventurer and elite kayaker Aniol Serrasolses shatters boundaries on his Arctic expedition to Norway when he descends a 20m-high ice waterfall - the largest ever recorded kayak drop from a glacial waterfall.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:e4eeed73-69cd-40ae-814a-2178d87ea078/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/ice-waterfalls</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:e4eeed73-69cd-40ae-814a-2178d87ea078</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</series-desc>
-  </programme>
-  <programme start="20250916011824 +0000" stop="20250916014500 +0000" channel="mjh-redbull-tv">
-    <title lang="en">For Reals</title>
-    <sub-title lang="en">From skydiving with skis to flying into a volcano</sub-title>
-    <desc lang="en">Flying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:28251908-2cc8-489f-9bb6-9b563abaa72d/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/for-reals-s1-e4</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:f2cb2ce7-09e1-4656-a37f-a10c80b56502</episode-num>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="original-air-date">2024-10-21 00:13:28</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:28251908-2cc8-489f-9bb6-9b563abaa72d</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </series-desc>
-  </programme>
   <programme start="20250916014500 +0000" stop="20250916021100 +0000" channel="mjh-redbull-tv">
     <title lang="en">For Reals</title>
     <sub-title lang="en">From a paper plane contest to diving off ruins </sub-title>
@@ -452,44 +424,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</series-desc>
-  </programme>
-  <programme start="20250916010000 +0000" stop="20250916020000 +0000" channel="mjh-al-jazeera">
-    <title>Witness</title>
-    <sub-title>Rooted in the West Bank</sub-title>
-    <desc>Atta strives to remain steadfast on his farm in the occupied West Bank as he faces violence and intimidation from Israeli settlers.</desc>
-    <date>2024</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/9bTjPzX48VZGalKEBI6tiknUyLI.jpg"/>
-    <country>South Korea</country>
-    <episode-num system="dd_progid">54023067</episode-num>
-    <episode-num system="freeviewnz.tv">episode/a6403df8-d34c-450b-b47b-8243d4ecfee9</episode-num>
-    <episode-num system="dd_seriesid">15473906</episode-num>
-    <episode-num system="freeviewnz.tv">season/3ddda0f9-250e-4ad1-9139-423c342c5222</episode-num>
-    <episode-num system="freeviewnz.tv">show/80c7a55a-5e3b-4bd9-bb90-59eb1601a8c9</episode-num>
-    <episode-num system="original-air-date">2024-11-21 01:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/208249</episode-num>
-    <episode-num system="thetvdb.com">series/261794</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Yu Kyung is a successful woman who is proficient enough to become an executive director of Chunha Group when she started as a secretary. She recently found out her daughter is alive, so she plans to get her back and take her revenge. Meanwhile, Hye Soo is a strong girl who faces challenges head-on. She has a daughter with Ji Ho, and she would do anything for her. However, she gets tragically betrayed by Ji Ho, the love of her life, over power and money. How will those two mothers end their fierce revenge?</series-desc>
   </programme>
   <programme start="20250916020000 +0000" stop="20250916023000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -11153,12 +11087,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250915230000 +0000" stop="20250916020000 +0000">
-    <title>Asia First</title>
-    <desc>Top stories, market updates, and business intel from across the region to prepare Asia for the day ahead.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614327d8e4b06f6128e158b6-1631791085698?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250916020000 +0000" stop="20250916030000 +0000">
     <title>In Alison''s Mind</title>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
@@ -11223,29 +11151,11 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147d2f4e4b0bbed8e932737-1632097030074?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250916010000 +0000" stop="20250916013000 +0000">
-    <title>Newsday</title>
-    <desc>International news from London and Singapore.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338453_2_20240215T220856973Z_18.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250916013000 +0000" stop="20250916014500 +0000">
-    <title>Business Today</title>
-    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250916014500 +0000" stop="20250916020000 +0000">
-    <title>BBC Sport</title>
-    <desc>Coverage, commentary highlights and more from the world's biggest sporting events.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1795488270_0_20250804T124638842Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-k8bdp.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250916130000 +0000" stop="20250916140000 +0000">
+    <title>Debt Bomb</title>
+    <desc>An examination of the impact of debt on countries, with the IMF declaring that 60 percent of low-income countries are either at high risk of debt distress or already in debt</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/65307d2be4b035367f0b685b-1697676603794?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250916020000 +0000" stop="20250916023000 +0000">
     <title>Newsday</title>
@@ -11343,22 +11253,29 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916010000 +0000" stop="20250916011500 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250916063000 +0000" stop="20250916065500 +0000">
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916011500 +0000" stop="20250916020000 +0000">
-    <title>DocFilm</title>
-    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250916065500 +0000" stop="20250916070000 +0000">
+    <title>The Travel Show</title>
+    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916020000 +0000" stop="20250916020200 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250916070000 +0000" stop="20250916073000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="mjh-dw-news" start="20250916020200 +0000" stop="20250916023000 +0000">
     <title>The Day</title>
@@ -11414,6 +11331,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886939_0_20241126T122257007Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
   <programme channel="mjh-dw-news" start="20250916060000 +0000" stop="20250916061500 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250916061500 +0000" stop="20250916063000 +0000">
+    <title>Interview</title>
+    <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250916063000 +0000" stop="20250916070000 +0000">
+    <title>Arts Unveiled</title>
+    <desc>Arts Unveiled dives deep into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape our history, present and future. Who are the artists? What are their greatest works of art? And how are they having an impact?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512887044_0_20241126T122257061Z_120_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250916070000 +0000" stop="20250916073000 +0000">
     <title>DW</title>
     <sub-title>News</sub-title>
     <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
