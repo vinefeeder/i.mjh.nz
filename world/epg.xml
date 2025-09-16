@@ -21,36 +21,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20250916060000 +0000" stop="20250916064400 +0000" channel="mjh-redbull-tv">
-    <title lang="en">WSL Championship Tour 2025</title>
-    <sub-title lang="en">WSL Bonsoy Gold Coast Pro wrap show</sub-title>
-    <desc lang="en">As Snapper Rocks makes a popular return to the Championship Tour the WSL commentators break down all the key moments from the 2025 Bonsoy Gold Coast Pro event.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:36ddfbd8-a3d3-4184-a5db-b681d1d4c274/rbtv_display_art_portrait"/>
-    <url>https://www.redbull.com/int-en/videos/wsl-championship-tour-2025-bonsoy-gold-coast-pro-wrap-show</url>
-    <episode-num system="redbull.com">episode/rrn:content:videos:36ddfbd8-a3d3-4184-a5db-b681d1d4c274</episode-num>
-    <episode-num system="original-air-date">2025-06-02 18:00:00</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">The WSL team dissect the top stories, triumphs and upsets of the 2025 Bonsoy Gold Coast Pro.</series-desc>
-  </programme>
-  <programme start="20250916064400 +0000" stop="20250916070154 +0000" channel="mjh-redbull-tv">
-    <title lang="en">No Contest: Off Tour</title>
-    <sub-title lang="en">Honolulu</sub-title>
-    <desc lang="en">Dive deep into one of surfing's most historic corners, Honolulu. On the other side of Oahu to the famed North Shore, 'Town' serves up an abundance of pristine waves and Hawaiian heritage.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:31650ca3-3fa9-4217-99a7-022e4fb444b0/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/no-contest-off-tour-s3-e3</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:720aa22b-74b5-43d0-99dd-935fa8707810</episode-num>
-    <episode-num system="xmltv_ns">2.2.0</episode-num>
-    <episode-num system="original-air-date">2025-05-02 01:46:36</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:31650ca3-3fa9-4217-99a7-022e4fb444b0</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</series-desc>
-  </programme>
   <programme start="20250916070154 +0000" stop="20250916072834 +0000" channel="mjh-redbull-tv">
     <title lang="en">Premier Padel 2025</title>
     <sub-title lang="en">Bordeaux Premier Padel P2 highlights</sub-title>
@@ -324,73 +294,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</series-desc>
-  </programme>
-  <programme start="20250916060000 +0000" stop="20250916063000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">271419463</episode-num>
-    <episode-num system="freeviewnz.tv">episode/778786e2-398a-4bb2-a2cc-1862f4dd4c41</episode-num>
-    <episode-num system="original-air-date">2025-09-16 18:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250916063000 +0000" stop="20250916070000 +0000" channel="mjh-al-jazeera">
-    <title>Fault Lines</title>
-    <sub-title>Kids Under Fire</sub-title>
-    <desc>American doctors who volunteered in Gaza report witnessing a disturbing pattern of children being shot by the Israeli military.</desc>
-    <date>2025</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/314574-1.jpg"/>
-    <episode-num system="dd_progid">55326934</episode-num>
-    <episode-num system="freeviewnz.tv">episode/affacccd-28cc-43b7-9483-81ffe5195143</episode-num>
-    <episode-num system="dd_seriesid">22552425</episode-num>
-    <episode-num system="freeviewnz.tv">season/1d092b73-a8e7-4e74-b411-cf971c9b873f</episode-num>
-    <episode-num system="freeviewnz.tv">show/892b2d86-9a8e-458d-af1a-e6b8d061288e</episode-num>
-    <episode-num system="original-air-date">2025-05-08 20:30:00</episode-num>
-    <episode-num system="thetvdb.com">series/314574</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <series-desc>Fault Lines, a documentary series produced and broadcast by Al Jazeera English, is the former's flagship program about the Americas and the latter's main investigative program. Josh Rushing, Zeina Awad, and Sebastian Walker host the series.</series-desc>
   </programme>
   <programme start="20250916070000 +0000" stop="20250916080000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
@@ -10784,29 +10687,11 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/62c4d341e4b00d8f62bcc4f9-1657066307172?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250916060000 +0000" stop="20250916063000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250916063000 +0000" stop="20250916065500 +0000">
-    <title>Business Today</title>
-    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250916065500 +0000" stop="20250916070000 +0000">
-    <title>The Travel Show</title>
-    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250916180000 +0000" stop="20250916190000 +0000">
+    <title>Singapore Tonight</title>
+    <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cd1fe4b028d3ad594396-1632544919474?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250916070000 +0000" stop="20250916073000 +0000">
     <title>BBC News</title>
@@ -10905,21 +10790,23 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916060000 +0000" stop="20250916061500 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250916113000 +0000" stop="20250916120000 +0000">
+    <title>BBC News</title>
+    <sub-title>Now</sub-title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338647_0_20240215T220853691Z_24.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916061500 +0000" stop="20250916063000 +0000">
-    <title>Interview</title>
-    <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20250916063000 +0000" stop="20250916070000 +0000">
-    <title>Arts Unveiled</title>
-    <desc>Arts Unveiled dives deep into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape our history, present and future. Who are the artists? What are their greatest works of art? And how are they having an impact?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512887044_0_20241126T122257061Z_120_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250916120000 +0000" stop="20250916123000 +0000">
+    <title>BBC News</title>
+    <sub-title>Now</sub-title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338647_0_20240215T220853691Z_24.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="mjh-dw-news" start="20250916070000 +0000" stop="20250916073000 +0000">
     <title>DW</title>
@@ -10975,5 +10862,21 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <sub-title>News</sub-title>
     <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250916113000 +0000" stop="20250916120000 +0000">
+    <title>In Good Shape</title>
+    <desc>Fitness, nutrition, medicine: The DW health show offers science-based tips for an active and healthy lifestyle.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886902_0_20241126T122304737Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250916120000 +0000" stop="20250916121500 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250916121500 +0000" stop="20250916124500 +0000">
+    <title>Close up</title>
+    <desc>The weekly half-hour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886950_0_20241126T122304995Z_43_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
 </tv>
