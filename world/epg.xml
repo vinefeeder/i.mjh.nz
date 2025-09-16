@@ -21,33 +21,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20250916043146 +0000" stop="20250916051556 +0000" channel="mjh-redbull-tv">
-    <title lang="en">WSL Championship Tour 2025</title>
-    <sub-title lang="en">WSL Abu Dhabi Pro wrap show</sub-title>
-    <desc lang="en">After three days of insane action, the WSL’s first Middle Eastern event was a wild success. The commentary team break down all the storylines as Caitlin Simmers and Italo Ferreira take the crowns.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:fe6770fa-0896-47e6-8442-815b5ae023dd/rbtv_display_art_portrait"/>
-    <url>https://www.redbull.com/int-en/videos/wsl-championship-tour-surf-abu-dhabi-pro-wrap-show</url>
-    <episode-num system="redbull.com">episode/rrn:content:videos:fe6770fa-0896-47e6-8442-815b5ae023dd</episode-num>
-    <episode-num system="original-air-date">2025-04-02 03:09:00</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</series-desc>
-  </programme>
-  <programme start="20250916051556 +0000" stop="20250916060000 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Chasing Winter</title>
-    <sub-title lang="en">Snowboarding's best prepare for the world stage</sub-title>
-    <desc lang="en">Join Mark McMorris and friends as they push themselves and their sport in preparation for the biggest contest season of their careers at an idyllic training camp in Switzerland.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:289c6780-f290-49b7-9365-dc01b6079525/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/chasing-winter</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:289c6780-f290-49b7-9365-dc01b6079525</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Pro snowboarder Mark McMorris and friends prepare for the upcoming high-stakes competition season.</series-desc>
-  </programme>
   <programme start="20250916060000 +0000" stop="20250916064400 +0000" channel="mjh-redbull-tv">
     <title lang="en">WSL Championship Tour 2025</title>
     <sub-title lang="en">WSL Bonsoy Gold Coast Pro wrap show</sub-title>
@@ -351,79 +324,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</series-desc>
-  </programme>
-  <programme start="20250916050000 +0000" stop="20250916053000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">271419461</episode-num>
-    <episode-num system="freeviewnz.tv">episode/02d37c3a-308d-4e4e-be4c-799727063c73</episode-num>
-    <episode-num system="original-air-date">2025-09-16 17:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250916053000 +0000" stop="20250916060000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/a4a5c21c-e735-4d8a-b1ee-f0352fd45661/insidestory_showcard.jpg" width="480" height="640"/>
-    <episode-num system="dd_progid">56283331</episode-num>
-    <episode-num system="freeviewnz.tv">episode/6bd68590-5d33-454a-a2e0-90f86579db31</episode-num>
-    <episode-num system="xmltv_ns">0.1090.0</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2025-09-16 08:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>1/10</value>
-    </star-rating>
-    <series-desc/>
   </programme>
   <programme start="20250916060000 +0000" stop="20250916063000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10802,12 +10702,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250916050000 +0000" stop="20250916060000 +0000">
-    <title>Metropolis</title>
-    <desc>Explores the urban life in the ancient Mediterranean area, where metropolises emerged out of a scattering of settlements.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/62c4d341e4b00d8f62bcc4f9-1657066307172?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250916060000 +0000" stop="20250916080000 +0000">
     <title>Asia Now</title>
     <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
@@ -10884,29 +10778,11 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147d2f4e4b0bbed8e932737-1632097030074?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250916050000 +0000" stop="20250916053000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250916053000 +0000" stop="20250916055500 +0000">
-    <title>Business Today</title>
-    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250916055500 +0000" stop="20250916060000 +0000">
-    <title>The Travel Show</title>
-    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250916170000 +0000" stop="20250916180000 +0000">
+    <title>Metropolis</title>
+    <desc>Explores the urban life in the ancient Mediterranean area, where metropolises emerged out of a scattering of settlements.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/62c4d341e4b00d8f62bcc4f9-1657066307172?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250916060000 +0000" stop="20250916063000 +0000">
     <title>BBC News</title>
@@ -10996,15 +10872,38 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916050200 +0000" stop="20250916053000 +0000">
-    <title>The Day</title>
-    <desc>In addition to DW's round-the-clock news bulletins The Day provides viewers with the background and analysis they need to understand the top stories of the last 24 hours.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886845_0_20241126T122304742Z_55_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250916103000 +0000" stop="20250916104500 +0000">
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916053000 +0000" stop="20250916060000 +0000">
-    <title>Eco India</title>
-    <desc>DW's Eco India showcases environmental and social projects that are improving lives in India and Europe. The show focuses on innovative technology and social challenges.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886939_0_20241126T122257007Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250916104500 +0000" stop="20250916105500 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250916105500 +0000" stop="20250916110000 +0000">
+    <title>The Travel Show</title>
+    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250916110000 +0000" stop="20250916113000 +0000">
+    <title>BBC News</title>
+    <sub-title>Now</sub-title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338647_0_20240215T220853691Z_24.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="mjh-dw-news" start="20250916060000 +0000" stop="20250916061500 +0000">
     <title>DW</title>
@@ -11061,6 +10960,17 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886843_0_20241126T122304485Z_104_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
   <programme channel="mjh-dw-news" start="20250916100000 +0000" stop="20250916103000 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250916103000 +0000" stop="20250916110000 +0000">
+    <title>Tomorrow Today</title>
+    <desc>Developments and trends in research: From space travel to environmental conservation, from genetic engineering to medical innovations, Tomorrow Today has the scoop on science.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886825_0_20241126T122257007Z_22_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250916110000 +0000" stop="20250916113000 +0000">
     <title>DW</title>
     <sub-title>News</sub-title>
     <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
